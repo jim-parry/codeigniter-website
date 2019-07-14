@@ -530,4 +530,4 @@ $config['proxy_ips'] = '';
  */
 $config['mybb_news_forum_id'] = 2;
 $config['mybb_news_usernames'] = array('ciadmin', 'jlp', 'kilishan', 'Narf');
-$config['mybb_forum_url'] = 'http://forum.codeigniter.com';
+$config['mybb_forum_url'] = 'https://forum.codeigniter.com';
